@@ -1,6 +1,6 @@
-a=15
-b=25
+a=25
+b=35
 if a<b:
-    print('greater than 20')
+    print('greater than 30')
 else:
-    print('less than 20')
+    print('less than 30')
